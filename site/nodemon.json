@@ -1,0 +1,8 @@
+{
+	"verbose": false,
+	"ignore": [
+		"site/server/data/store/",
+		"node_modules/",
+		"*.log"
+	]
+}
